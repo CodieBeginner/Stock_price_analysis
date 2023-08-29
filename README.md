@@ -1,4 +1,3 @@
-# Time Series Analysis on Stock Market using EDA
 
 Data scraped from S&P 500
 
